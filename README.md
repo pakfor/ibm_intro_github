@@ -1,2 +1,9 @@
 # ibm_intro_github
-It is a public repository for completing the final assignment of IBM Skills Network's course. 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
